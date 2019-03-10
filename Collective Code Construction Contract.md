@@ -8,6 +8,14 @@ editor: Pieter Hintjens <ph@imatix.com>
 
 The Collective Code Construction Contract (C4) is an evolution of the github.com [Fork + Pull Model](http://help.github.com/send-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is revision 2 of the C4 specification and deprecates RFC 22.
 
+## Modification to revision 2
+
+The following modification is made in order to license the project under MIT license:
+
+>## 2.2. Licensing and Ownership
+>
+>1. The project ~SHALL~SHOULD use a share-alike license such as the MPLv2, or a GPLv3 variant thereof (GPL, LGPL, AGPL).
+
 ## License
 
 Copyright (c) 2009-2016 Pieter Hintjens.
@@ -49,7 +57,7 @@ C4 is meant to provide a reusable optimal collaboration model for open source so
 
 ### 2.2. Licensing and Ownership
 
-1. The project SHALL use a share-alike license such as the MPLv2, or a GPLv3 variant thereof (GPL, LGPL, AGPL).
+1. The project SHOULD use a share-alike license such as the MPLv2, or a GPLv3 variant thereof (GPL, LGPL, AGPL).
 1. All contributions to the project source code ("patches") SHALL use the same license as the project.
 1. All patches are owned by their authors. There SHALL NOT be any copyright assignment process.
 1. Each Contributor SHALL be responsible for identifying themselves in the project Contributor list.
